@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End JavaScript Dev.
 ------------------------
 
-Hi, I am Bird. I have been doing back-end development through JavaScript via Node.JS for around 2 years. In my time, I have built Discord bots and APIs for various groups based on the popular game, Roblox. I have contributed to a community on Roblox called the Central Authority part of the Deepwoken game on Roblox with over 440 members. I am also employed as a scripter at South Pacific Airways, a Roblox airline, as well. I have made many more contributions, but these are the most great ones. 
+Hi, I am Bird. I have been doing back-end development through JavaScript via Node.JS for around 2 years. In my time, I have built Discord bots and APIs for various groups based on the popular game, Roblox. I have contributed to a community on Roblox called the Central Authority part of the Deepwoken game on Roblox with over 440 members. I am also employed as a scripter at South Pacific Airways, a Roblox airline, as well. I have made many more contributions, but these are my main ones.
 
 * 🌍  I'm based in Colorado
 * ✉️  You can contact me at [thebirdfan@outlook.com](mailto:thebirdfan@outlook.com)
@@ -12,8 +12,8 @@ Hi, I am Bird. I have been doing back-end development through JavaScript via Nod
 * 🤝  I'm open to collaborating on APIs and Discord Bots
 * ⚡  I also have a lil experience in 3D modeling on blender
 
-<a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" /></a>
+<a href="https://www.github.com/Bird-Owly" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Bird-Owly?logo=github&style=for-the-badge&color=6366f1&labelColor=0f172a" /></a>
 
 ### Skills
 
@@ -25,8 +25,8 @@ src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&co
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/952407169096118322" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://discord.com/users/952407169096118322" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Bird-Owly" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
-<a href="https://github.com/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Bird-Owly" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bird-Owly&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
