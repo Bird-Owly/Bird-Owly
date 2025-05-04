@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End JavaScript Dev.
 ------------------------
 
-Hi, I am Bird. I have been doing back-end development through JavaScript via Node.JS for around 2 years. In my time, I have built Discord bots and APIs for various groups based on the popular game, Roblox. I have contributed to a community on Roblox called the Central Authority part of the Deepwoken game on Roblox with over 440 members. I am also employed as a scripter at South Pacific Airways, a Roblox airline, as well. I have made many more contributions, but these are my main ones.
+Hi, I am Bird. I have been doing back-end development through JavaScript via Node.JS for around 2 years. In my time, I have built Discord bots and APIs for various groups based on the popular game, Roblox. 
+
+My largest contributions have been to the Central Authority and South Pacific Airways. I have contributed to a community on Roblox called the Central Authority part of the Deepwoken game on Roblox with over 440 members. I am also employed as a scripter at South Pacific Airways, a Roblox airline, as well. I have made many more contributions, but these are my main ones.
 
 * 🌍  I'm based in Colorado
 * ✉️  You can contact me at [thebirdfan@outlook.com](mailto:thebirdfan@outlook.com)
